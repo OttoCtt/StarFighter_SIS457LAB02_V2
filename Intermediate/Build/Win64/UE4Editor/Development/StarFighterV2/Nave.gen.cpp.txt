@@ -1,0 +1,5 @@
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\StarFighterV2\Intermediate\Build\Win64\UE4Editor\Development\StarFighterV2\Definitions.StarFighterV2.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\StarFighterV2\Source\StarFighterV2/Nave.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\StarFighterV2\Intermediate\Build\Win64\UE4Editor\Inc\StarFighterV2\Nave.generated.h
