@@ -59,16 +59,20 @@ void EmptyLinkFunctionForGeneratedCodeNave() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ANave_Statics::NewProp_SM_Nave_MetaData[] = {
 		{ "Category", "Nave" },
+		{ "Comment", "//Se crean dos propiedades importanes.\n//Estos son los dros propiedades que se usaran en la nave cuando es juego inicie.\n//Esta propiedad nos permite manejar los modelos est?ticos, crear su malla o su apariencia. \n" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "Nave.h" },
+		{ "ToolTip", "Se crean dos propiedades importanes.\nEstos son los dros propiedades que se usaran en la nave cuando es juego inicie.\nEsta propiedad nos permite manejar los modelos est?ticos, crear su malla o su apariencia." },
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ANave_Statics::NewProp_SM_Nave = { "SM_Nave", nullptr, (EPropertyFlags)0x00200800000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ANave, SM_Nave), Z_Construct_UClass_UStaticMeshComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ANave_Statics::NewProp_SM_Nave_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ANave_Statics::NewProp_SM_Nave_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ANave_Statics::NewProp_FloatingMovement_MetaData[] = {
 		{ "Category", "Nave" },
+		{ "Comment", "//Esta propiedad nos permite gestionar su movimiento .\n" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "Nave.h" },
+		{ "ToolTip", "Esta propiedad nos permite gestionar su movimiento ." },
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ANave_Statics::NewProp_FloatingMovement = { "FloatingMovement", nullptr, (EPropertyFlags)0x00200800000a001d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ANave, FloatingMovement), Z_Construct_UClass_UFloatingPawnMovement_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ANave_Statics::NewProp_FloatingMovement_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ANave_Statics::NewProp_FloatingMovement_MetaData)) };
@@ -103,7 +107,7 @@ void EmptyLinkFunctionForGeneratedCodeNave() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ANave, 559137158);
+	IMPLEMENT_CLASS(ANave, 2007029783);
 	template<> STARFIGHTERV2_API UClass* StaticClass<ANave>()
 	{
 		return ANave::StaticClass();

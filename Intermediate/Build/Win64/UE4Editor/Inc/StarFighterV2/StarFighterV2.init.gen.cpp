@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeStarFighterV2_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xE02DE75D,
+				0xC16439BD,
 				0x07886DC2,
 				METADATA_PARAMS(nullptr, 0)
 			};

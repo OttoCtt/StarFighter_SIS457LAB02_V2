@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-StarFighterV2-0015.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\StarFighterV2\Intermediate\Build\Win64\StarFighterV2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\StarFighterV2\Intermediate\Build\Win64\UE4Editor\Development\StarFighterV2\Nave.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\StarFighterV2\Intermediate\Build\Win64\UE4Editor\Development\StarFighterV2\NavePlayerController.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\StarFighterV2\Intermediate\Build\Win64\UE4Editor\Development\StarFighterV2\StarFighterV2.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\StarFighterV2\Intermediate\Build\Win64\UE4Editor\Development\StarFighterV2\StarFighterV2GameModeBase.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\StarFighterV2\Intermediate\Build\Win64\UE4Editor\Development\StarFighterV2\Nave.gen.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\StarFighterV2\Intermediate\Build\Win64\UE4Editor\Development\StarFighterV2\NavePlayerController.gen.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\StarFighterV2\Intermediate\Build\Win64\UE4Editor\Development\StarFighterV2\StarFighterV2.init.gen.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\StarFighterV2\Intermediate\Build\Win64\UE4Editor\Development\StarFighterV2\StarFighterV2GameModeBase.gen.cpp.obj"
+"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\StarFighterV2\Intermediate\Build\Win64\UE4Editor\Development\StarFighterV2\Default.rc2.res"
+/OUT:"D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\StarFighterV2\Intermediate\Build\Win64\UE4Editor\Development\StarFighterV2\UE4Editor-StarFighterV2-0015.lib"
